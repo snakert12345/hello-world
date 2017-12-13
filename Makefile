@@ -1,3 +1,4 @@
+# Still learning about make files and so far it is looking good.
 IDIR=../include
 CC=gcc
 CFLAGS=-I$(IDIR)
