@@ -1,3 +1,4 @@
+// Created by Ethan Adams
 #include <stdio.h>
 #include "func.h"
 
